@@ -1,2 +1,2 @@
 # SkillFactory-Study
- Tutorial projects for DkillFactory
+ Tutorial projects for SkillFactory
